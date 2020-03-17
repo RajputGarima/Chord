@@ -13,4 +13,4 @@ For each configuration , following operations were performed - <br />
 3. Adding new nodes
 
 The graph shows the average number of hops taken by a search query to look up the data in a network with 1000 nodes.
-## Results: ![picture](1000.eps)
+![picture](1000.png)
